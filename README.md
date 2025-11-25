@@ -1,2 +1,2 @@
 # taco-store
-A simple frontend project for a taco store built entirely with HTML and CSS
+A simple frontend project for a taco store built entirely with HTML 
